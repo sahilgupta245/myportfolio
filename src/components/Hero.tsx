@@ -52,7 +52,7 @@ const Hero = () => {
             <img
               src={sahil}
               alt="Sahil Gupta"
-              className="rounded-2xl shadow-2xl w-full max-w-screen-md mx-auto transform transition-all duration-500 group-hover:scale-105"
+              className="rounded-2xl shadow-2xl w-full max-w-xl mx-auto transform transition-all duration-500 group-hover:scale-105"
             />
             <div className="absolute -bottom-4 -right-4 bg-gradient-to-r from-[#ff7c43] to-[#ffa600] text-white px-6 py-2 rounded-full transform transition-all duration-500 group-hover:scale-110">
               Data Driven
